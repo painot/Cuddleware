@@ -22,7 +22,10 @@ exec(code, Cuddles.__dict__)
 ```
 ### Functions
 ```py
-# Functions to be added soon
+# MORE COMING SOON
+
+.lerp(a, b, t) # linear interpolation
+.clamp(value, min, max) # keep a number in range
 ```
 
 <br>
