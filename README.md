@@ -1,12 +1,11 @@
 # Cuddleware
-## Description
+### Description
 - Module with mathematical aura
   
-## Features
+### Features
 - Math stuff
 - Physics stuff
 
-## Usage
 ### Setup
 
 ```py
