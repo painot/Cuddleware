@@ -1,1 +1,3 @@
 # Cuddles
+
+print("Hello world!")
