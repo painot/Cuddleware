@@ -1,6 +1,7 @@
 # Cuddleware
 ### Description
 - Module with mathematical aura
+- Cuddles, tickles n snuggles (kawaii ahh mf)
   
 ### Features
 - Math stuff
