@@ -14,7 +14,7 @@ import requests
 import types
 import importlib.util
 
-url = "https://raw.githubusercontent.com/painot/Cuddleware/refs/heads/main/main.py"
+url = "https://raw.githubusercontent.com/painot/Cuddleware/main/main.py"
 code = requests.get(url).text
 
 Cuddles = types.ModuleType('Cuddleware')
