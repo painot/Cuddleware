@@ -4,7 +4,7 @@
 - Module with random ahh stuff
 - Module with cuddles, tickles n snuggles (kawaii ahh mf)
 - Some functions are directly called from numpy/scipy
-- - I am NOT a pro btw 😭😭
+- I am NOT a pro btw 😭😭
   
 ### Features
 - Math stuff
