@@ -32,6 +32,12 @@ def code(values, code):
 def decode(values, code):
     return [value / code for value in values]
 
+def distance(x1, y1, x2, y2):
+    return math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
+
+def xerp(x, y, x_new):
+    return y * (numpy.exp(x_new - x) - 1)
+
 # MISC
 
 def OneNotePages(list):
