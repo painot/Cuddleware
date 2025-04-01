@@ -1,6 +1,7 @@
 # Cuddleware
 ### Description
 - Module with mathematical aura
+- Module with random ahh stuff as well
 - Cuddles, tickles n snuggles (kawaii ahh mf)
   
 ### Features
@@ -21,11 +22,16 @@ Cuddles = types.ModuleType("Cuddleware")
 exec(code, Cuddles.__dict__)
 ```
 ### Functions
+#### Maths
 ```py
-# MORE COMING SOON
-
+# MORE SOON
 .lerp(a, b, t) # linear interpolation
 .clamp(value, min, max) # keep a number in range
+```
+#### Misc
+```py
+# MORE SOON
+.OneNotePages(entries) # creates pages from entries list, focus on the OneNote window
 ```
 
 <br>
