@@ -1,17 +1,17 @@
 # Cuddleware 🧸
-### Description
+## Description
 - Module with mathematical aura
 - Module with random ahh stuff
 - Module with cuddles, tickles n snuggles (kawaii ahh mf)
 - Some functions are directly called from numpy/scipy
 - I am NOT a pro btw 😭😭
   
-### Features
+## Features
 - Math stuff
 - Physics stuff
 - Random stuff
 
-### Setup
+## Setup
 
 ```py
 import requests
@@ -24,7 +24,7 @@ Cuddles = types.ModuleType("Cuddleware")
 exec(code, Cuddles.__dict__)
 ```
 
-### Functions
+## Functions
 #### Maths
 
 ```py
@@ -43,7 +43,7 @@ Cuddles.xerp(x, y, x_new) # expo
 
 ```py
 # MORE SOON
-.OneNotePages(entries) # creates pages from entries list, focus on the OneNote window
+Cuddles.OneNotePages(entries) # creates pages from entries list, focus on the OneNote window
 ```
 
 <br>
