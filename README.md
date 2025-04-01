@@ -29,8 +29,14 @@ exec(code, Cuddles.__dict__)
 
 ```py
 # MORE SOON
-.lerp(a, b, t) # linear interpolation
-.clamp(value, min, max) # keep a number in range
+Cuddles.lerp(a, b, t) # linear interpolation
+Cuddles.clamp(value, min, max) # keep a number in range
+Cuddles.lambertW(x) # from scipy, x = xe^x
+Cuddles.gamma(x) # from scipy, (n-1)!
+Cuddles.code(values, factor) # make data easier to understand
+Cuddles.deocde(values, factor) # decode encoded data
+Cuddles.distance(x1, y1, x2, y2) # dist between 2 pts
+Cuddles.xerp(x, y, x_new) # expo
 ```
 
 #### Misc
