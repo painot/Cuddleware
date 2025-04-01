@@ -17,7 +17,7 @@ import importlib.util
 url = "https://raw.githubusercontent.com/painot/Cuddleware/main/main.py"
 code = requests.get(url).text
 
-Cuddles = types.ModuleType('Cuddleware')
+Cuddles = types.ModuleType("Cuddleware")
 exec(code, Cuddles.__dict__)
 ```
 ### Functions
