@@ -1,4 +1,4 @@
-# Cuddleware
+# Cuddleware 🧸
 ### Description
 - Module with mathematical aura
 - Module with random ahh stuff as well
