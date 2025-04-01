@@ -38,4 +38,4 @@ exec(code, Cuddles.__dict__)
 ```
 
 <br>
-<b>Stable release expected to come out July 2025</b>
+<b>Full release expected to come out 20 June 2025</b>
