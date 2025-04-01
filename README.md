@@ -1,7 +1,7 @@
 # Cuddleware 🧸
 ### Description
 - Module with mathematical aura
-- Module with random ahh stuff as well
+- Module with random ahh stuff
 - Module with cuddles, tickles n snuggles (kawaii ahh mf)
 
 - I am NOT a pro btw 😭😭
