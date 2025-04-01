@@ -21,14 +21,18 @@ code = requests.get(url).text
 Cuddles = types.ModuleType("Cuddleware")
 exec(code, Cuddles.__dict__)
 ```
+
 ### Functions
 #### Maths
+
 ```py
 # MORE SOON
 .lerp(a, b, t) # linear interpolation
 .clamp(value, min, max) # keep a number in range
 ```
+
 #### Misc
+
 ```py
 # MORE SOON
 .OneNotePages(entries) # creates pages from entries list, focus on the OneNote window
