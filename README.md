@@ -36,7 +36,7 @@ Cuddles.gamma(x) # from scipy, (n-1)!
 Cuddles.code(values, factor) # make data easier to understand
 Cuddles.deocde(values, factor) # decode encoded data
 Cuddles.distance(x1, y1, x2, y2) # dist between 2 pts
-Cuddles.xerp(x, y, x_new) # expo
+Cuddles.xerp(x, y, x_new) # exponential interpolation
 ```
 
 #### Misc
