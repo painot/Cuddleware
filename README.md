@@ -3,8 +3,8 @@
 - Module with mathematical aura
 - Module with random ahh stuff
 - Module with cuddles, tickles n snuggles (kawaii ahh mf)
-
-- I am NOT a pro btw 😭😭
+- Some functions are directly called from numpy/scipy
+- - I am NOT a pro btw 😭😭
   
 ### Features
 - Math stuff
