@@ -2,7 +2,7 @@
 ### Description
 - Module with mathematical aura
 - Module with random ahh stuff as well
-- Cuddles, tickles n snuggles (kawaii ahh mf)
+- Module with cuddles, tickles n snuggles (kawaii ahh mf)
   
 ### Features
 - Math stuff
